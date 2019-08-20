@@ -17,9 +17,9 @@
   ```
   ```groovy
      dependencies {
-          implementation 'com.android.support:recyclerview-v7:27.1.1' //必选
-	  implementation 'com.github.wuyang2000:IndexSelector:1.0.0' //必选
-	  }
+     implementation 'com.android.support:recyclerview-v7:27.1.1' //必选
+     implementation 'com.github.wuyang2000:IndexSelector:1.0.0' //必选
+     }
   ```
 
 # Author
