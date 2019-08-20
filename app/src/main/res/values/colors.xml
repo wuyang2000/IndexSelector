@@ -2,5 +2,28 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#FF5C8BFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="edit_line">#FFD9E2E9</color>
+    <color name="text_33">#FF333333</color>
+    <color name="text_66">#FF666666</color>
+    <color name="text_99">#FF999999</color>
+    <color name="edit_hint">#FFB6C2CE</color>
+    <color name="application_color">#FFF8F8F8</color>
+    <color name="application_color_FB">#FFFBFBFB</color>
+    <color name="red_point">#FFF53743</color>
+    <color name="orange_point">#FFF57637</color>
+    <color name="black_alpha_55">#55000000</color>
+    <color name="black_alpha_66">#66000000</color>
+    <color name="black_alpha_77">#77000000</color>
+    <color name="black_alpha_88">#88000000</color>
+    <color name="black_alpha_99">#99000000</color>
+    <color name="black_alpha_aa">#aa000000</color>
+    <color name="black_alpha_bb">#bb000000</color>
+    <color name="black_alpha_cc">#cc000000</color>
+    <color name="black_alpha_dd">#dd000000</color>
+
+    <color name="item_company_item_bg">#EDEDED</color>
+    <color name="item_company_click">#F6F6F6</color>
 </resources>
